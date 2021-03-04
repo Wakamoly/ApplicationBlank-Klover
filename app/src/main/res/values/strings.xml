@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationBlank</string>
+    <string name="stock_text">Stock</string>
+    <string name="symbol_text">Symbol</string>
+    <string name="open_text">Open</string>
+    <string name="price_text">Price</string>
+    <string name="change_text">Change</string>
+    <string name="go_text">Go</string>
+</resources>
